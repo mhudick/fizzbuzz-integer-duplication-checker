@@ -1,0 +1,25 @@
+First thing's first - I haven't been able to finish the rails app yet.
+
+I have thought about implementations and how I would approach the problem though.
+Building a chat application is not particularly difficult.  It is not a task I have done
+but I have consulted with other senior developers prior to this tasking about how one is built.
+The first piece is to configure your database and create a good model.  You'll have users, messages, time stamps
+a place to denote activity, pretty simple things and easily broken up into normalized tables.  You would need to know,
+potentially, how to interact with sockets.  This is where my knowledge has gaps.  A gem of note for this project is
+private pub.  I found this gem through railscasts and it allows for chat rooms to be updated in real time.  The heavy
+lifting is essentially done for us. 
+
+I personally would use a system like JIRA or Kanbanize to schedule tickets on a sprint.  I would prefer this task
+to be taken up by two or three people if a junior is on hand.  One would develop the chat room, one would develop the user log in, if they are
+both full stack they could handle the front end and back end work.  If they are not the third float would be used as a front end
+developer for both tasks or whichever is needed.  On top of front end work I would have this person researching gems and preparing
+test cases and documentation for the features at hand.  Documentation is key for client facing applications.  We can cut down
+dramatically on troubleshooting and questions with good documentation of features.
+
+When features are finished they would need to be thorough tested, via smoke testing and unit and functional tests.  The junior could
+be writing the tests based on the test cases they generated prior to the features being pushed.  When tests are passing and smoke testing
+is finished a pull request should be opened where an outside developer from the task reviews the code.  If there are changes that need to be
+made then the developer who designed the feature should make the changes, if not then the code is pushed to an acceptance testing
+environment for a thorough automated testing and regression from QA.  When QA approves the feature then the feature can be pushed to
+production.  These features are fairly small so a long sprint would be unnecessary.  I prefer two week sprints, or staggers QA sprints and
+development sprints to allow for adequate testing time.
