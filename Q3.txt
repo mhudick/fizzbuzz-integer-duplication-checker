@@ -1,0 +1,61 @@
+A)
+I have a morning ritual where I wake up and I make a pot of coffee.
+I'll list my steps off in order
+1) Wake up and come out of sleep - 3 minutes
+    toss, turn, rub eyes, whatever it takes to wake up
+2) Make way to bathroom and brush teeth, shave if necessary and do any other business - ~11 minutes
+    take out tooth brush and tooth paste - 10 seconds
+    remove toothpaste lid then squeeze paste onto tooth brush - 5 seconds
+    start water on to heat while wetting tooth brush 2 minutes
+    brush teeth waiting for water to heat ^ combined effort
+    water is hot clean up tooth brush and plug drain - 1 minute
+    apply water to face 15 seconds
+    apply shaving soap to face 30 seconds
+    Shaving brush to soap on face until properly lathered 30 seconds
+    acquire razor from stand 5 seconds
+    single pass shave 3 minutes
+    splash water on face 15 seconds
+    check for nicks if nick alum spot 15 seconds
+    clean brush and razor 1 minute
+    drain water and clean sink 1 minute
+3) travel downstairs and to the kitchen- 30 seconds
+4) check water levels in kettle - 10 seconds
+5) if water is empty fill kettle then boil water - 7 minutes, else boil water - 6 minutes
+6) prepare coffee beans for grind by measuring out beans then grinding - 2 minutes
+7) prepared pour over method
+    if chemex 3 minutes
+        slowly heat up container
+        prepare filter
+        add grounds
+        remove liquid from prep
+    if french press 1 minute
+      warm container
+      add grounds
+    if V60 15 seconds
+      prepare filter
+      add grounds
+8) when water is done boiling pour water over grounds, 3 passes - 5 minutes
+9) let rest - 2 minutes
+10) prepare mug - 10 seconds
+11) pour - 10 seconds
+12) drink - 10 - 15 minutes
+
+B) optimized routine
+
+1) Wake up, don't toss and turn. 15 seconds
+2) Make way to bathroom and brush teeth - REMOVE SHAVING, SHAVE THE NIGHT BEFORE. 2 minutes 15 seconds
+    take out tooth brush and tooth paste - 10 seconds
+    remove toothpaste lid then squeeze paste onto tooth brush - 5 seconds
+    wet tooth brush and brush teeth - 2 minutes
+    SHAVE THE NIGHT BEFORE!
+3) travel downstairs and to the kitchen- 30 seconds
+4) no need to brew coffee its already made because I used my timed coffee maker settle to brew 15 minutes before wake up - all prep done night before
+5) prepare mug - 10 seconds
+6) pour - 10 seconds
+7) drink - 10 - 15 minutes
+
+one thing I noticed while optimizing my routine is that my typical routine is all done procedurally.
+When I optimized things I began to realize that I could everything in a pre-generated tasks that I could do prior
+to when I normally would.  Without realizing it I essentially turned my wake up, my shaving, my teeth brush, and coffee making
+into objects that have their methods written out and ready to go. With a bit of setup time I was able to shave dramatic type off of my daily routine.
+Thats a pretty big deal and really lends itself to the positive nature of object oriented programming.
